@@ -1,2 +1,2 @@
-# timus-problems-solution
-Timus Problems Solution In Python &amp; Cpp
+### TIMUS PROBLEMS SOLUTION
+### AUTHOR : 73RED
